@@ -990,6 +990,8 @@ body {
 
 	.design {
 		min-width: 320px;
+		background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+			url(./img/bg_mobile.png) no-repeat;
 	}
 	.preview-design {
 		margin: 0;
