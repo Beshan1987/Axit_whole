@@ -856,12 +856,40 @@ body {
 
 .tabs_features-download-btn-wrap-footer {
 	width: 270px;
-	height: 58px;
 	margin: 0 auto;
 }
 
 .tabs_features-download-btn-footer {
 	margin: 50px 0;
+}
+
+.footer__socials {
+	background-color: #000000;
+}
+
+.footer__socials-list-img {
+	text-align: center;
+	padding-top: 35px;
+	width: calc(1510px - 470px - 470px);
+	margin: 0 auto;
+	justify-content: space-between;
+	display: flex;
+}
+
+.footer__socials-list-img img {
+	height: 42px;
+	width: 40px;
+}
+
+.footer__author {
+	font-family: "Raleway";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+	color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	padding: 35px 0 27px 0;
 }
 
 /* section footer end */
